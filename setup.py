@@ -15,8 +15,8 @@ setup(
     packages=find_packages(),
     classifiers=[
         'Development Status :: 3 - Alpha',
-        'INTENDED AUDIENCE :: FINANCIAL AND INSURANCE INDUSTRY',
-        'License :: OSI APPROVED :: GNU GENERAL PUBLIC LICENSE V3 (GPLV3)',
+        'Intended Audience :: Financial and Insurance Industry',
+        'License :: OSI Approved :: GNU General Public License v3 (GPLv3)',
         'Programming Language :: Python :: 3',
         'Programming Language :: Python :: 3.7',
         'Programming Language :: Python :: 3.8',
