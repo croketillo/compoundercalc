@@ -1,5 +1,6 @@
-
 # Compound Interest Calculator
+![PyPI - Downloads](https://img.shields.io/pypi/dm/compoundercalc?color=%2360EE59) ![Pepy Total Downlods](https://img.shields.io/pepy/dt/compoundercalc)
+
 
 This package provides a `CompoundInterestCalculator` class for calculating compound interest for various financial scenarios.
 
